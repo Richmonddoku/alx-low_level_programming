@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #TASKS
 
 
@@ -56,3 +57,6 @@ Prototype: int _atoi(char *s); The number in the string can be preceded by an in
 Create a program that generates random valid passwords for the program 101-crackme.
 
 
+=======
+0x05-pointers_arrays_strings
+>>>>>>> 7f0a41d389237fbef6320655998c4976ea52cbdd
